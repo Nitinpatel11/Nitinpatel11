@@ -77,7 +77,7 @@
 ## 🧩 Featured Work
 
 🚀 **Management Systems**
-- Vendor Management System (React + Redux + APIs)
+- Multiple Management System (React + Redux + APIs)
 - School / Academic Management Platforms  
 - Real-time tracking systems  
 
